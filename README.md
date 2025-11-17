@@ -212,7 +212,7 @@
     -  `Сумма итого` — сумма, рассчитанная за количество оказанных услуг с учётом лимита и разности базовой цены и цены при превышении лимита.
 
      <div align="center">
-       <img src="https://github.com/user-attachments/assets/59126306-ff90-4c0d-a9aa-c3585bc26bc">
+       <img src="https://github.com/user-attachments/assets/a4685c64-a815-4b8f-96a3-e75d650e82d5">
        Рисунок 25 — Форма создания документа «Акт оказания услуги»
      </div>
 
