@@ -1,6 +1,6 @@
 # Учёт тарифицируемых услуг
 
-![License](https://img.shields.io/github/license/VitalinaZlo/VolgaIT-2025_1C_Enterprise_8?style=flat-square&color=e5573e&label=License)
+![License](https://img.shields.io/github/license/VitalinaZlo/VolgaIT-2025_1C_Enterprise_8?style=flat-square&label=License&color=e5573e)
 ![1C version](https://img.shields.io/badge/build-8.3.27+-brightgreen?style=flat-square&label=1C&color=ffdf01)
 ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
 
